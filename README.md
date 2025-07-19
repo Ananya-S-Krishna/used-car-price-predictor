@@ -17,7 +17,7 @@ Accurately predicting the resale price of used cars is valuable for individual s
 
 ## Dataset
 
-- **Source**: [CarDekho dataset](https://www.kaggle.com/datasets)
+- **Source**: [CarDekho dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv))
 - **Size**: 299 rows × 9 columns (after cleaning)
 - **Features Used**:
   - `Present_Price` (in lakhs)
